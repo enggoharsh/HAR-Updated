@@ -391,5 +391,6 @@ Possible future enhancements:
 ---
 
 # Author
-@enggoharsh, Om Kumar, Anupam Sarashwat.
+Harsh Mishra, Om Kumar, Anupam Sarashwat.
+
 Project developed for educational and research purposes.
