@@ -29,6 +29,7 @@ The dataset contains the following activity classes:
 
 # Dataset Split
 
+Source: Taylor W, Shah SA, Dashtipour K, Zahid A, Abbasi QH, Imran MA. An Intelligent Non-Invasive Real-Time Human Activity Recognition System for Next-Generation Healthcare. Sensors (Basel). 2020 May 6;20(9):2653. doi: 10.3390/s20092653. PMID: 32384716; PMCID: PMC7248832.
 The dataset is divided into:
 
 - 70% Training Data
