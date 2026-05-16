@@ -193,7 +193,7 @@ Advantages:
 
 - Validation accuracy of models were compared and the following results were obtained:
 
-![Comparison between the Models](images/acc_vs_models)
+![Comparison between the Models](images/acc_vs_models.png)
 
 # Workflow of the Project
 
