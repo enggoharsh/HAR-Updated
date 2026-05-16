@@ -189,6 +189,12 @@ Advantages:
 
 ---
 
+## Comparison between the Models
+
+- Validation accuracy of models were compared and the following results were obtained:
+
+![Comparison between the Models](image_path)
+
 # Workflow of the Project
 
 ```text
